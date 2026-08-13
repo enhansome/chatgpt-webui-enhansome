@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "vue2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ChatGPT_JCM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "vue3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ChatGPT Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于next"
+    },
+    {
+      "description": "一键免费部署你的私人 ChatGPT 网页应用。 体验相当好的ui",
+      "items": [],
+      "title": "ChatGPT Next Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于astro"
+    },
+    {
+      "description": "一个基于 OpenAI GPT-3.5 Turbo API 的 demo。",
+      "items": [],
+      "title": "chatgpt-demo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ChatGPT-Vercel"
+    },
+    {
+      "description": "部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo） 支持随机生成预设场景（100+） 支持缓存会话",
+      "items": [],
+      "title": "QA power by gpt"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于nuxt"
+    },
+    {
+      "description": "关于 ChatGPT Web 客户端，支持多用户、多数据库连接用于持久数据存储，支持 i18n。提供Docker镜像和快速部署脚本。\n",
+      "items": [],
+      "title": "chatgpt-ui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于php"
+    },
+    {
+      "description": "PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最新的gpt-3.5-turbo模型。 采用Stream流模式通信，一边生成一边输出",
+      "items": [],
+      "title": "chatpht power by php"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于tauri方案"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "支持斜杠命令及其配置（可手动配置或从文件同步 #55",
+          "description": "）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-29T17:58:11Z",
+            "owner": "lencx",
+            "repo": "ChatGPT",
+            "stars": 54439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "自定义全局快捷键 (#108",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-29T17:58:11Z",
+            "owner": "lencx",
+            "repo": "ChatGPT",
+            "stars": 54439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "划词搜索 (#122",
+          "description": "鼠标选中文本，不超过 400 个字符)：应用使用 Tauri 构建，因其安全限制，会导致部分操作按钮无效，建议前往浏览器操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-29T17:58:11Z",
+            "owner": "lencx",
+            "repo": "ChatGPT",
+            "stars": 54439
+          }
+        }
+      ],
+      "title": "ChatGPT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于python"
+    },
+    {
+      "description": "基于ChatGPT的微信聊天机器人，通过 ChatGPT 接口生成对话内容，使用 itchat 实现微信消息的接收和自动回复。已实现的特性如下：\n[x] 文本对话： 接收私聊及群组中的微信消息，使用ChatGPT生成回复内容，完成自动回复 [x] 规则定制化： 支持私聊中按指定规则触发自动回复，支持对群组设置自动回复白名单 [x] 图片生成： 支持根据描述生成图片，支持图片修复 [x] 上下文记忆：支持多轮对话记忆，且为每个好友维护独立的上下会话 [x] 语音识别： 支持接收和处理语音消息，通过文字或语音回复 [x] 插件化： 支持个性化插件，提供角色扮演、文字冒险、与操作系统交互、访问网络数据等能力",
+      "items": [],
+      "title": "chatgpt-on-wechat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "基于node"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "wechat-chatgpt"
+    },
+    {
+      "description": "chatgpt-wechat-personal 实现原理： 腾讯服务器推送用户消息过来时，调用OpenAI的API接口，并将用户的问题和返回的结果存到日志文件中。 在5秒内很可能收不到OpenAI返回的消息。没关系，直接让腾讯服务器发过来的请求响应超时。 等腾讯第二次或第三次查询的时候，第一次请求调用OpenAI的结果也返回并写到文件中了，直接从文件中获取结果返回给用户。",
+      "items": [],
+      "title": "基于php"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "解决网络问题"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "chatgptProxyAPI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "浏览器插件"
+    },
+    {
+      "description": "All-in-one chatbot client",
+      "items": [],
+      "title": "chathub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLM 接口管理 & 分发系统"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "one-api"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:46.646Z",
+    "original_repository": "cnAlexJiang/chatgpt-webui-awesome",
+    "original_repository_sha": "1e3a295bd86d5ec34d9d7a22e7fac0633835bc2f",
+    "enhanced_repository": "enhansome/chatgpt-webui-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome chat-gpt-full-stack with stars"
+  }
+}
