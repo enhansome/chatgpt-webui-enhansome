@@ -17,7 +17,7 @@ chatgpt full stack solution
 
 ## vue2
 
-### [ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) ⭐ 2,923 | 🐛 38 | 🌐 Vue | 📅 2025-01-18
+### [ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) ⭐ 2,923 | 🐛 37 | 🌐 Vue | 📅 2025-01-18
 
 > OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等
 
@@ -54,7 +54,7 @@ chatgpt full stack solution
 > Next.js还提供了极佳的开发体验，支持热重载(Hot-reload)和实时编译，可以让你在开发React应用时无需充斥大量的配置。
 > 总的来说，Next.js 是用于简化 服务端渲染(SSR) 和 静态网站生成(SSG) 的 React 应用程序的开发和部署的工具。 它为开发人员提供了服务器渲染，静态导出等功能，从而实现更好的性能、SEO等。
 
-### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,639 | 🐛 851 | 🌐 TypeScript | 📅 2026-08-11
+### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,642 | 🐛 851 | 🌐 TypeScript | 📅 2026-08-11
 
 一键免费部署你的私人 ChatGPT 网页应用。
 体验相当好的ui <img src="https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/docs/images/cover.png"/>
@@ -108,7 +108,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # desktop 桌面端
 
-## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,469 | 🐛 1,439 | 🌐 Rust | 📅 2026-08-21
+## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,502 | 🐛 1,440 | 🌐 Rust | 📅 2026-08-21
 
 > 关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序
 
@@ -131,7 +131,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 基于python
 
-### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,634 | 🐛 39 | 🌐 Python | 📅 2026-08-23
+### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,641 | 🐛 39 | 🌐 Python | 📅 2026-08-23
 
 > ChatGPT近期以强大的对话和信息整合能力风靡全网，可以写代码、改论文、讲故事，几乎无所不能，这让人不禁有个大胆的想法，能否用他的对话模型把我们的微信打造成一个智能机器人，可以在与好友对话中给出意想不到的回应，而且再也不用担心女朋友影响我们 打游戏 工作了。
 
@@ -162,7 +162,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # prompts 相关
 
-## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,769 | 🐛 68 | 🌐 HTML | 📅 2026-08-22
+## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,824 | 🐛 69 | 🌐 HTML | 📅 2026-08-23
 
 使用 WeChat 和 ChatGPT 进行互动：
 基于 wechaty 和 Official API 在微信中使用 ChatGPT
@@ -172,7 +172,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 * 官网 <https://prompts.chat/> <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
-## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,748 | 🐛 46 | 📅 2026-04-28
+## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,771 | 🐛 46 | 📅 2026-04-28
 
 * 官网 <https://chatguide.plexpt.com/>
 
@@ -196,10 +196,10 @@ All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/m
 
 ## LLM  接口管理 & 分发系统
 
-### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,528 | 🐛 1,030 | 🌐 JavaScript | 📅 2026-01-09
+### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,544 | 🐛 1,030 | 🌐 JavaScript | 📅 2026-01-09
 
 ![alt text](image.png)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
