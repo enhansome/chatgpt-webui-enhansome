@@ -171,7 +171,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54457
+                    "stars": 54455
                   }
                 },
                 {
@@ -186,7 +186,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54457
+                    "stars": 54455
                   }
                 },
                 {
@@ -201,7 +201,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54457
+                    "stars": 54455
                   }
                 }
               ],
@@ -214,7 +214,7 @@
                 "last_commit": "2024-08-29T17:58:11Z",
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54457
+                "stars": 54455
               },
               "title": "ChatGPT"
             }
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-24T19:34:36Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110529
+            "stars": 110534
           },
           "title": "基于tauri方案"
         }
@@ -248,10 +248,10 @@
                 "archived": false,
                 "id": 522158088,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:56:41Z",
+                "last_commit": "2026-08-25T04:22:45Z",
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46659
+                "stars": 46662
               },
               "title": "chatgpt-on-wechat"
             }
@@ -318,10 +318,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167864
+            "stars": 167871
           },
           "title": "Awesome ChatGPT Prompts"
         },
@@ -336,7 +336,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61789
+            "stars": 61793
           },
           "title": "ChatGPT 中文调教指南"
         }
@@ -409,7 +409,7 @@
                 "last_commit": "2026-01-09T03:26:43Z",
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 36559
+                "stars": 36565
               },
               "title": "one-api"
             }
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:57:20.179Z",
+    "last_updated": "2026-08-25T06:36:57.519Z",
     "original_repository": "cnAlexJiang/chatgpt-webui-awesome",
     "original_repository_id": 625732540,
     "original_repository_sha": "1e3a295bd86d5ec34d9d7a22e7fac0633835bc2f",

@@ -108,17 +108,17 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # desktop 桌面端
 
-## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,529 | 🐛 1,443 | 🌐 Rust | 📅 2026-08-24
+## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,534 | 🐛 1,444 | 🌐 Rust | 📅 2026-08-24
 
 > 关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序
 
-### [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,457 | 🐛 942 | 🌐 Rust | 📅 2024-08-29
+### [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,455 | 🐛 942 | 🌐 Rust | 📅 2024-08-29
 
   <img src="https://github.com/lencx/ChatGPT/raw/main/assets/chatgpt-cmd.png">
 
-* 支持斜杠命令及其配置（可手动配置或从文件同步 [#55](https://github.com/lencx/ChatGPT/issues/55) ⭐ 54,457 | 🐛 942 | 🌐 Rust | 📅 2024-08-29）
-* 自定义全局快捷键 ([#108](https://github.com/lencx/ChatGPT/issues/108) ⭐ 54,457 | 🐛 942 | 🌐 Rust | 📅 2024-08-29)
-* 划词搜索 ([#122](https://github.com/lencx/ChatGPT/issues/122) ⭐ 54,457 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 鼠标选中文本，不超过 400 个字符)：应用使用 Tauri 构建，因其安全限制，会导致部分操作按钮无效，建议前往浏览器操作。
+* 支持斜杠命令及其配置（可手动配置或从文件同步 [#55](https://github.com/lencx/ChatGPT/issues/55) ⭐ 54,455 | 🐛 942 | 🌐 Rust | 📅 2024-08-29）
+* 自定义全局快捷键 ([#108](https://github.com/lencx/ChatGPT/issues/108) ⭐ 54,455 | 🐛 942 | 🌐 Rust | 📅 2024-08-29)
+* 划词搜索 ([#122](https://github.com/lencx/ChatGPT/issues/122) ⭐ 54,455 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 鼠标选中文本，不超过 400 个字符)：应用使用 Tauri 构建，因其安全限制，会导致部分操作按钮无效，建议前往浏览器操作。
 * 跨平台: `macOS` `Linux` `Windows`
 * 导出 ChatGPT 聊天记录 (支持 PNG, PDF 和生成分享链接)
 * 主窗口和系统托盘支持自定义 URL，将任意网站包装成一个桌面应用
@@ -131,7 +131,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 基于python
 
-### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,659 | 🐛 41 | 🌐 Python | 📅 2026-08-23
+### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,662 | 🐛 41 | 🌐 Python | 📅 2026-08-25
 
 > ChatGPT近期以强大的对话和信息整合能力风靡全网，可以写代码、改论文、讲故事，几乎无所不能，这让人不禁有个大胆的想法，能否用他的对话模型把我们的微信打造成一个智能机器人，可以在与好友对话中给出意想不到的回应，而且再也不用担心女朋友影响我们 打游戏 工作了。
 
@@ -162,7 +162,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # prompts 相关
 
-## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,864 | 🐛 69 | 🌐 HTML | 📅 2026-08-24
+## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,871 | 🐛 69 | 🌐 HTML | 📅 2026-08-25
 
 使用 WeChat 和 ChatGPT 进行互动：
 基于 wechaty 和 Official API 在微信中使用 ChatGPT
@@ -172,7 +172,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 * 官网 <https://prompts.chat/> <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
-## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,789 | 🐛 46 | 📅 2026-04-28
+## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,793 | 🐛 46 | 📅 2026-04-28
 
 * 官网 <https://chatguide.plexpt.com/>
 
@@ -196,7 +196,7 @@ All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/m
 
 ## LLM  接口管理 & 分发系统
 
-### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,559 | 🐛 1,030 | 🌐 JavaScript | 📅 2026-01-09
+### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,565 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-01-09
 
 ![alt text](image.png)
 
