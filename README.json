@@ -38,7 +38,7 @@
                 "last_commit": "2024-08-16T15:26:57Z",
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31493
+                "stars": 31492
               },
               "title": "ChatGPT Web"
             }
@@ -66,7 +66,7 @@
                 "last_commit": "2026-08-11T02:07:25Z",
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88647
+                "stars": 88646
               },
               "title": "ChatGPT Next Web"
             }
@@ -171,7 +171,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
+                    "stars": 54457
                   }
                 },
                 {
@@ -186,7 +186,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
+                    "stars": 54457
                   }
                 },
                 {
@@ -201,7 +201,7 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
+                    "stars": 54457
                   }
                 }
               ],
@@ -214,7 +214,7 @@
                 "last_commit": "2024-08-29T17:58:11Z",
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54456
+                "stars": 54457
               },
               "title": "ChatGPT"
             }
@@ -225,10 +225,10 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-21T21:34:35Z",
+            "last_commit": "2026-08-24T19:34:36Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110521
+            "stars": 110529
           },
           "title": "基于tauri方案"
         }
@@ -251,7 +251,7 @@
                 "last_commit": "2026-08-23T09:56:41Z",
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46652
+                "stars": 46659
               },
               "title": "chatgpt-on-wechat"
             }
@@ -273,7 +273,7 @@
                 "last_commit": "2024-05-20T09:44:41Z",
                 "owner": "fuergaosi233",
                 "repo": "wechat-chatgpt",
-                "stars": 13237
+                "stars": 13238
               },
               "title": "wechat-chatgpt"
             }
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-24T03:24:40Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167848
+            "stars": 167864
           },
           "title": "Awesome ChatGPT Prompts"
         },
@@ -336,7 +336,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61786
+            "stars": 61789
           },
           "title": "ChatGPT 中文调教指南"
         }
@@ -359,7 +359,7 @@
                 "last_commit": "2025-06-24T11:58:01Z",
                 "owner": "x-dr",
                 "repo": "chatgptProxyAPI",
-                "stars": 3028
+                "stars": 3029
               },
               "title": "chatgptProxyAPI"
             }
@@ -409,7 +409,7 @@
                 "last_commit": "2026-01-09T03:26:43Z",
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 36552
+                "stars": 36559
               },
               "title": "one-api"
             }
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:58.044Z",
+    "last_updated": "2026-08-25T02:57:20.179Z",
     "original_repository": "cnAlexJiang/chatgpt-webui-awesome",
     "original_repository_id": 625732540,
     "original_repository_sha": "1e3a295bd86d5ec34d9d7a22e7fac0633835bc2f",
