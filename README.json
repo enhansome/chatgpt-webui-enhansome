@@ -66,7 +66,7 @@
                 "last_commit": "2026-08-11T02:07:25Z",
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88653
+                "stars": 88652
               },
               "title": "ChatGPT Next Web"
             }
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-26T21:03:24Z",
+            "last_commit": "2026-08-27T11:53:37Z",
             "owner": "tauri-apps",
             "repo": "tauri",
             "stars": 110595
@@ -248,7 +248,7 @@
                 "archived": false,
                 "id": 522158088,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:54:18Z",
+                "last_commit": "2026-08-27T11:39:32Z",
                 "owner": "zhayujie",
                 "repo": "CowAgent",
                 "stars": 46702
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-27T10:04:29Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168047
+            "stars": 168052
           },
           "title": "Awesome ChatGPT Prompts"
         },
@@ -336,7 +336,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61849
+            "stars": 61851
           },
           "title": "ChatGPT 中文调教指南"
         }
@@ -409,7 +409,7 @@
                 "last_commit": "2026-01-09T03:26:43Z",
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 36607
+                "stars": 36606
               },
               "title": "one-api"
             }
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:38.519Z",
+    "last_updated": "2026-08-27T12:22:17.911Z",
     "original_repository_info": {
       "archived": false,
       "id": 625732540,

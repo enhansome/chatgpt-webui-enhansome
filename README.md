@@ -54,7 +54,7 @@ chatgpt full stack solution
 > Next.js还提供了极佳的开发体验，支持热重载(Hot-reload)和实时编译，可以让你在开发React应用时无需充斥大量的配置。
 > 总的来说，Next.js 是用于简化 服务端渲染(SSR) 和 静态网站生成(SSG) 的 React 应用程序的开发和部署的工具。 它为开发人员提供了服务器渲染，静态导出等功能，从而实现更好的性能、SEO等。
 
-### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,653 | 🐛 852 | 🌐 TypeScript | 📅 2026-08-11
+### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,652 | 🐛 852 | 🌐 TypeScript | 📅 2026-08-11
 
 一键免费部署你的私人 ChatGPT 网页应用。
 体验相当好的ui <img src="https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/docs/images/cover.png"/>
@@ -108,7 +108,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # desktop 桌面端
 
-## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,595 | 🐛 1,445 | 🌐 Rust | 📅 2026-08-26
+## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,595 | 🐛 1,446 | 🌐 Rust | 📅 2026-08-27
 
 > 关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序
 
@@ -162,7 +162,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # prompts 相关
 
-## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,047 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
+## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,052 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
 
 使用 WeChat 和 ChatGPT 进行互动：
 基于 wechaty 和 Official API 在微信中使用 ChatGPT
@@ -172,7 +172,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 * 官网 <https://prompts.chat/> <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
-## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,849 | 🐛 45 | 📅 2026-04-28
+## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,851 | 🐛 45 | 📅 2026-04-28
 
 * 官网 <https://chatguide.plexpt.com/>
 
@@ -196,7 +196,7 @@ All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/m
 
 ## LLM  接口管理 & 分发系统
 
-### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,607 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-01-09
+### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,606 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-01-09
 
 ![alt text](image.png)
 
