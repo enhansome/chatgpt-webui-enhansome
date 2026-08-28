@@ -18,7 +18,8 @@
                 "repo": "ChatGPT_JCM",
                 "stars": 2924
               },
-              "title": "ChatGPT_JCM"
+              "title": "ChatGPT_JCM",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "repo": "chatgpt-web",
                 "stars": 31491
               },
-              "title": "ChatGPT Web"
+              "title": "ChatGPT Web",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -66,9 +68,10 @@
                 "last_commit": "2026-08-11T02:07:25Z",
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88652
+                "stars": 88657
               },
-              "title": "ChatGPT Next Web"
+              "title": "ChatGPT Next Web",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": "Next.js是一个基于React框架的轻量级服务端渲染(SSR)框架，它提供了一些丰富的特性，如代码分割、静态文件导出、数据预取等等，使得开发React应用更加高效。 Next.js还提供了极佳的开发体验，支持热重载(Hot-reload)和实时编译，可以让你在开发React应用时无需充斥大量的配置。 总的来说，Next.js 是用于简化 服务端渲染(SSR) 和 静态网站生成(SSG) 的 React 应用程序的开发和部署的工具。 它为开发人员提供了服务器渲染，静态导出等功能，从而实现更好的性能、SEO等。",
@@ -90,7 +93,8 @@
                 "repo": "chatgpt-demo",
                 "stars": 7935
               },
-              "title": "chatgpt-demo"
+              "title": "chatgpt-demo",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             },
             {
               "children": [],
@@ -105,7 +109,8 @@
                 "repo": "chatgpt-vercel",
                 "stars": 3208
               },
-              "title": "ChatGPT-Vercel"
+              "title": "ChatGPT-Vercel",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             },
             {
               "children": [],
@@ -120,7 +125,8 @@
                 "repo": "QA",
                 "stars": 136
               },
-              "title": "QA power by gpt"
+              "title": "QA power by gpt",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": "Astro是一个全新的现代化的静态网站生成器，它采用了现代化的开发框架和技术，如React、Vue、Svelte等，并提供了一些预设的模板和组件，以简化开发过程。 Astro采用完全静态的生成模式，可以在本地生成和预览站点，也可以在部署到任何支持静态站点托管的平台上。它提供了界面简洁、易于使用的开发体验，开发者可以使用它来构建各种类型的网站，包括静态网页、博客、电子商务网站等等。",
@@ -140,9 +146,10 @@
                 "last_commit": "2026-05-11T05:27:17Z",
                 "owner": "WongSaang",
                 "repo": "chatgpt-ui",
-                "stars": 1626
+                "stars": 1625
               },
-              "title": "chatgpt-ui"
+              "title": "chatgpt-ui",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": "Nuxt.js是一个基于Vue.js的服务端渲染的应用框架，它有助于构建大型、高度可维护的Vue.js应用程序。Nuxt.js提供了许多有用的特性，例如代码分割、静态生成、预渲染和服务器端渲染等，可以让你构建现代Web应用程序，提高应用程序性能和SEO优化效果。通过Nuxt.js，开发人员可以使用Vue.js框架来快速构建高质量的Web应用，并且无需担心复杂的设置和配置。",
@@ -171,8 +178,9 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
-                  }
+                    "stars": 54461
+                  },
+                  "first_seen": "2026-08-28T13:48:37.487Z"
                 },
                 {
                   "node_type": "item",
@@ -186,8 +194,9 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
-                  }
+                    "stars": 54461
+                  },
+                  "first_seen": "2026-08-28T13:48:37.487Z"
                 },
                 {
                   "node_type": "item",
@@ -201,8 +210,9 @@
                     "last_commit": "2024-08-29T17:58:11Z",
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54456
-                  }
+                    "stars": 54461
+                  },
+                  "first_seen": "2026-08-28T13:48:37.487Z"
                 }
               ],
               "description": null,
@@ -214,9 +224,10 @@
                 "last_commit": "2024-08-29T17:58:11Z",
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54456
+                "stars": 54461
               },
-              "title": "ChatGPT"
+              "title": "ChatGPT",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": "关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序",
@@ -225,12 +236,13 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:53:37Z",
+            "last_commit": "2026-08-27T16:39:08Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110595
+            "stars": 110621
           },
-          "title": "基于tauri方案"
+          "title": "基于tauri方案",
+          "first_seen": "2026-08-28T13:48:37.487Z"
         }
       ],
       "title": "desktop 桌面端"
@@ -251,9 +263,10 @@
                 "last_commit": "2026-08-27T11:39:32Z",
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46702
+                "stars": 46709
               },
-              "title": "chatgpt-on-wechat"
+              "title": "chatgpt-on-wechat",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -275,7 +288,8 @@
                 "repo": "wechat-chatgpt",
                 "stars": 13237
               },
-              "title": "wechat-chatgpt"
+              "title": "wechat-chatgpt",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -297,7 +311,8 @@
                 "owner": "dirk1983",
                 "repo": "ai-wechat-personal",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -318,12 +333,13 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:04:29Z",
+            "last_commit": "2026-08-28T05:47:17Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168052
+            "stars": 168114
           },
-          "title": "Awesome ChatGPT Prompts"
+          "title": "Awesome ChatGPT Prompts",
+          "first_seen": "2026-08-28T13:48:37.487Z"
         },
         {
           "children": [],
@@ -336,9 +352,10 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61851
+            "stars": 61873
           },
-          "title": "ChatGPT 中文调教指南"
+          "title": "ChatGPT 中文调教指南",
+          "first_seen": "2026-08-28T13:48:37.487Z"
         }
       ],
       "title": "prompts 相关"
@@ -359,9 +376,10 @@
                 "last_commit": "2025-06-24T11:58:01Z",
                 "owner": "x-dr",
                 "repo": "chatgptProxyAPI",
-                "stars": 3030
+                "stars": 3031
               },
-              "title": "chatgptProxyAPI"
+              "title": "chatgptProxyAPI",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -383,7 +401,8 @@
                 "repo": "chathub",
                 "stars": 10649
               },
-              "title": "chathub"
+              "title": "chathub",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -409,9 +428,10 @@
                 "last_commit": "2026-01-09T03:26:43Z",
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 36606
+                "stars": 36629
               },
-              "title": "one-api"
+              "title": "one-api",
+              "first_seen": "2026-08-28T13:48:37.487Z"
             }
           ],
           "description": null,
@@ -423,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:22:17.911Z",
+    "last_updated": "2026-08-28T13:48:37.487Z",
     "original_repository_info": {
       "archived": false,
       "id": 625732540,
