@@ -11,12 +11,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。",
+                "homepage": null,
                 "id": 612009220,
                 "language": "Vue",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-18T04:20:45Z",
+                "open_issues": 37,
                 "owner": "JunChenMoCode",
                 "repo": "ChatGPT_JCM",
-                "stars": 2924
+                "stars": 2924,
+                "topics": []
               },
               "title": "ChatGPT_JCM",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -34,12 +39,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "用 Express 和  Vue3 搭建的 ChatGPT 演示网页",
+                "homepage": null,
                 "id": 599394820,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2024-08-16T15:26:57Z",
+                "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31491
+                "stars": 31489,
+                "topics": []
               },
               "title": "ChatGPT Web",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -63,12 +73,37 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+                "homepage": "https://nextchat.club",
                 "id": 612344730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:07:25Z",
+                "open_issues": 853,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88657
+                "stars": 88662,
+                "topics": [
+                  "calclaude",
+                  "chatgpt",
+                  "claude",
+                  "cross-platform",
+                  "desktop",
+                  "fe",
+                  "gemini",
+                  "gemini-pro",
+                  "gemini-server",
+                  "gemini-ultra",
+                  "gpt-4o",
+                  "groq",
+                  "nextjs",
+                  "ollama",
+                  "react",
+                  "tauri",
+                  "tauri-app",
+                  "vercel",
+                  "webui"
+                ]
               },
               "title": "ChatGPT Next Web",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -86,12 +121,26 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Minimal web UI for ChatGPT. ",
+                "homepage": "https://chatgpt.ddiu.me",
                 "id": 608490374,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-27T01:44:01Z",
+                "open_issues": 48,
                 "owner": "anse-app",
                 "repo": "chatgpt-demo",
-                "stars": 7935
+                "stars": 7935,
+                "topics": [
+                  "astro",
+                  "chatgpt",
+                  "chatgpt4",
+                  "gpt-3",
+                  "gpt-35",
+                  "gpt-35-turbo",
+                  "openai",
+                  "openai-api"
+                ]
               },
               "title": "chatgpt-demo",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -102,12 +151,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Elegant and Powerfull. Powered by OpenAI and Vercel.",
+                "homepage": "https://vercel-chatgpt-github.vercel.app/",
                 "id": 609427511,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-16T20:31:38Z",
+                "open_issues": 40,
                 "owner": "ourongxing",
                 "repo": "chatgpt-vercel",
-                "stars": 3208
+                "stars": 3208,
+                "topics": [
+                  "chatgpt",
+                  "edge-function",
+                  "solidjs",
+                  "vercel"
+                ]
               },
               "title": "ChatGPT-Vercel",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -118,12 +177,24 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）",
+                "homepage": "https://a.mydog.buzz/",
                 "id": 599544082,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-30T08:02:50Z",
+                "open_issues": 0,
                 "owner": "gcloudlab",
                 "repo": "QA",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "astro",
+                  "chatgpt",
+                  "gpt-35-turbo",
+                  "tsx",
+                  "typescript",
+                  "vercel"
+                ]
               },
               "title": "QA power by gpt",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -141,12 +212,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.",
+                "homepage": "https://wongsaang.github.io/chatgpt-ui/",
                 "id": 600374177,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-05-11T05:27:17Z",
+                "open_issues": 100,
                 "owner": "WongSaang",
                 "repo": "chatgpt-ui",
-                "stars": 1625
+                "stars": 1625,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-client",
+                  "chatgpt-web",
+                  "django",
+                  "docker",
+                  "docker-chatgpt",
+                  "node-chatgpt",
+                  "nuxt-chatgpt",
+                  "openai",
+                  "vue",
+                  "vue-chatgpt"
+                ]
               },
               "title": "chatgpt-ui",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -173,12 +261,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                    "homepage": null,
                     "id": 575340621,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2024-08-29T17:58:11Z",
+                    "open_issues": 942,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54461
+                    "stars": 54462,
+                    "topics": [
+                      "ai",
+                      "app",
+                      "application",
+                      "chatgpt",
+                      "desktop-app",
+                      "gpt",
+                      "gpt-3",
+                      "linux",
+                      "macos",
+                      "notes-app",
+                      "openai",
+                      "rust",
+                      "tauri",
+                      "webview",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:48:37.487Z"
                 },
@@ -189,12 +298,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                    "homepage": null,
                     "id": 575340621,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2024-08-29T17:58:11Z",
+                    "open_issues": 942,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54461
+                    "stars": 54462,
+                    "topics": [
+                      "ai",
+                      "app",
+                      "application",
+                      "chatgpt",
+                      "desktop-app",
+                      "gpt",
+                      "gpt-3",
+                      "linux",
+                      "macos",
+                      "notes-app",
+                      "openai",
+                      "rust",
+                      "tauri",
+                      "webview",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:48:37.487Z"
                 },
@@ -205,12 +335,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                    "homepage": null,
                     "id": 575340621,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2024-08-29T17:58:11Z",
+                    "open_issues": 942,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54461
+                    "stars": 54462,
+                    "topics": [
+                      "ai",
+                      "app",
+                      "application",
+                      "chatgpt",
+                      "desktop-app",
+                      "gpt",
+                      "gpt-3",
+                      "linux",
+                      "macos",
+                      "notes-app",
+                      "openai",
+                      "rust",
+                      "tauri",
+                      "webview",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:48:37.487Z"
                 }
@@ -219,12 +370,33 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                "homepage": null,
                 "id": 575340621,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-08-29T17:58:11Z",
+                "open_issues": 942,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54461
+                "stars": 54462,
+                "topics": [
+                  "ai",
+                  "app",
+                  "application",
+                  "chatgpt",
+                  "desktop-app",
+                  "gpt",
+                  "gpt-3",
+                  "linux",
+                  "macos",
+                  "notes-app",
+                  "openai",
+                  "rust",
+                  "tauri",
+                  "webview",
+                  "windows"
+                ]
               },
               "title": "ChatGPT",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -234,12 +406,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+            "homepage": "https://tauri.app",
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:39:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:18:58Z",
+            "open_issues": 1454,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110621
+            "stars": 110631,
+            "topics": [
+              "desktop-app",
+              "high-performance",
+              "mobile-app",
+              "native-app",
+              "rust",
+              "web-frontend",
+              "webview"
+            ]
           },
           "title": "基于tauri方案",
           "first_seen": "2026-08-28T13:48:37.487Z"
@@ -258,12 +443,34 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+                "homepage": "https://cowagent.ai",
                 "id": 522158088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:39:32Z",
+                "open_issues": 42,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46709
+                "stars": 46712,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "chatgpt-on-wechat",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "cowagent",
+                  "deepseek",
+                  "harness",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "openai",
+                  "openclaw",
+                  "skills"
+                ]
               },
               "title": "chatgpt-on-wechat",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -281,12 +488,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Use ChatGPT On Wechat via wechaty",
+                "homepage": null,
                 "id": 574965758,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-20T09:44:41Z",
+                "open_issues": 53,
                 "owner": "fuergaosi233",
                 "repo": "wechat-chatgpt",
-                "stars": 13237
+                "stars": 13236,
+                "topics": []
               },
               "title": "wechat-chatgpt",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -305,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "在微信个人订阅号中通过调用第三方接口实现AI聊天机器人的功能",
+                "homepage": null,
                 "id": 611621867,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-07-24T05:53:45Z",
+                "open_issues": 2,
                 "owner": "dirk1983",
                 "repo": "ai-wechat-personal",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:37.487Z"
             }
@@ -331,12 +548,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+            "homepage": "https://prompts.chat",
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-28T05:47:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:57Z",
+            "open_issues": 69,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168114
+            "stars": 168128,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome-list",
+              "chatgpt",
+              "chatgpt-prompts",
+              "claude",
+              "gemini",
+              "gpt",
+              "gpt-4",
+              "llm",
+              "machine-learning",
+              "nextjs",
+              "open-source",
+              "openai",
+              "prompt-engineering",
+              "prompts",
+              "prompts-chat",
+              "typescript"
+            ]
           },
           "title": "Awesome ChatGPT Prompts",
           "first_seen": "2026-08-28T13:48:37.487Z"
@@ -347,12 +588,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+            "homepage": "https://chat.aimakex.com/",
             "id": 577116112,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-28T10:52:14Z",
+            "open_issues": 45,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61873
+            "stars": 61879,
+            "topics": [
+              "chat-gpt",
+              "chatgpt",
+              "chatgpt3",
+              "chatgpt4",
+              "gpt"
+            ]
           },
           "title": "ChatGPT 中文调教指南",
           "first_seen": "2026-08-28T13:48:37.487Z"
@@ -371,12 +623,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出",
+                "homepage": "https://chatai.451024.xyz",
                 "id": 608735752,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-06-24T11:58:01Z",
+                "open_issues": 2,
                 "owner": "x-dr",
                 "repo": "chatgptProxyAPI",
-                "stars": 3031
+                "stars": 3030,
+                "topics": [
+                  "chatgpt",
+                  "cloudflare-pages",
+                  "cloudflare-workers",
+                  "free",
+                  "openai-api"
+                ]
               },
               "title": "chatgptProxyAPI",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -394,12 +657,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://chathub.gg/?utm_source=github",
                 "id": 609517170,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-27T08:10:31Z",
+                "open_issues": 17,
                 "owner": "chathub-dev",
                 "repo": "chathub",
-                "stars": 10649
+                "stars": 10648,
+                "topics": [
+                  "all-in-one",
+                  "browser-extension",
+                  "chrome-extension",
+                  "react",
+                  "typescript"
+                ]
               },
               "title": "chathub",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -423,12 +697,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+                "homepage": "https://oneapi.justsong.cn/",
                 "id": 631254164,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-09T03:26:43Z",
+                "open_issues": 1032,
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 36629
+                "stars": 36637,
+                "topics": [
+                  "api",
+                  "api-gateway",
+                  "azure-openai-api",
+                  "chatgpt",
+                  "claude",
+                  "ernie-bot",
+                  "gemini",
+                  "gpt",
+                  "openai",
+                  "openai-api",
+                  "proxy"
+                ]
               },
               "title": "one-api",
               "first_seen": "2026-08-28T13:48:37.487Z"
@@ -443,15 +734,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:48:37.487Z",
+    "last_updated": "2026-08-29T05:02:11.840Z",
     "original_repository_info": {
       "archived": false,
+      "description": "chatgpt 全栈解决方案, chat gpt webui , chatgpt full stack solution, chatgpt about, chatgpt deploy,gpt-4,gpt-3.5",
+      "homepage": null,
       "id": 625732540,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-03-05T05:54:34Z",
+      "open_issues": 0,
       "owner": "cnAlexJiang",
       "repo": "chatgpt-webui-awesome",
-      "stars": 79
+      "stars": 79,
+      "topics": [
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-app",
+        "chatgpt-webview-gui",
+        "gpt-4",
+        "spa",
+        "ssr",
+        "webui"
+      ]
     },
     "original_repository_sha": "1e3a295bd86d5ec34d9d7a22e7fac0633835bc2f",
     "enhanced_repository": "enhansome/chatgpt-webui-enhansome",
