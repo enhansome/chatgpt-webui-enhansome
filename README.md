@@ -54,7 +54,7 @@ chatgpt full stack solution
 > Next.js还提供了极佳的开发体验，支持热重载(Hot-reload)和实时编译，可以让你在开发React应用时无需充斥大量的配置。
 > 总的来说，Next.js 是用于简化 服务端渲染(SSR) 和 静态网站生成(SSG) 的 React 应用程序的开发和部署的工具。 它为开发人员提供了服务器渲染，静态导出等功能，从而实现更好的性能、SEO等。
 
-### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,685 | 🐛 856 | 🌐 TypeScript | 📅 2026-08-11
+### [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,693 | 🐛 855 | 🌐 TypeScript | 📅 2026-08-11
 
 一键免费部署你的私人 ChatGPT 网页应用。
 体验相当好的ui <img src="https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/docs/images/cover.png"/>
@@ -108,17 +108,17 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # desktop 桌面端
 
-## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,739 | 🐛 1,460 | 🌐 Rust | 📅 2026-09-02
+## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 110,761 | 🐛 1,464 | 🌐 Rust | 📅 2026-09-02
 
 > 关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序
 
-### [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,473 | 🐛 943 | 🌐 Rust | 📅 2024-08-29
+### [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,474 | 🐛 943 | 🌐 Rust | 📅 2024-08-29
 
   <img src="https://github.com/lencx/ChatGPT/raw/main/assets/chatgpt-cmd.png">
 
-* 支持斜杠命令及其配置（可手动配置或从文件同步 [#55](https://github.com/lencx/ChatGPT/issues/55) ⭐ 54,473 | 🐛 943 | 🌐 Rust | 📅 2024-08-29）
-* 自定义全局快捷键 ([#108](https://github.com/lencx/ChatGPT/issues/108) ⭐ 54,473 | 🐛 943 | 🌐 Rust | 📅 2024-08-29)
-* 划词搜索 ([#122](https://github.com/lencx/ChatGPT/issues/122) ⭐ 54,473 | 🐛 943 | 🌐 Rust | 📅 2024-08-29 鼠标选中文本，不超过 400 个字符)：应用使用 Tauri 构建，因其安全限制，会导致部分操作按钮无效，建议前往浏览器操作。
+* 支持斜杠命令及其配置（可手动配置或从文件同步 [#55](https://github.com/lencx/ChatGPT/issues/55) ⭐ 54,474 | 🐛 943 | 🌐 Rust | 📅 2024-08-29）
+* 自定义全局快捷键 ([#108](https://github.com/lencx/ChatGPT/issues/108) ⭐ 54,474 | 🐛 943 | 🌐 Rust | 📅 2024-08-29)
+* 划词搜索 ([#122](https://github.com/lencx/ChatGPT/issues/122) ⭐ 54,474 | 🐛 943 | 🌐 Rust | 📅 2024-08-29 鼠标选中文本，不超过 400 个字符)：应用使用 Tauri 构建，因其安全限制，会导致部分操作按钮无效，建议前往浏览器操作。
 * 跨平台: `macOS` `Linux` `Windows`
 * 导出 ChatGPT 聊天记录 (支持 PNG, PDF 和生成分享链接)
 * 主窗口和系统托盘支持自定义 URL，将任意网站包装成一个桌面应用
@@ -131,7 +131,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 基于python
 
-### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,758 | 🐛 46 | 🌐 Python | 📅 2026-09-01
+### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,770 | 🐛 45 | 🌐 Python | 📅 2026-09-03
 
 > ChatGPT近期以强大的对话和信息整合能力风靡全网，可以写代码、改论文、讲故事，几乎无所不能，这让人不禁有个大胆的想法，能否用他的对话模型把我们的微信打造成一个智能机器人，可以在与好友对话中给出意想不到的回应，而且再也不用担心女朋友影响我们 打游戏 工作了。
 
@@ -150,7 +150,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 基于node
 
-### [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,238 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20
+### [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,239 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20
 
 ## 基于php
 
@@ -162,7 +162,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # prompts 相关
 
-## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,494 | 🐛 71 | 🌐 HTML | 📅 2026-09-02
+## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,665 | 🐛 71 | 🌐 HTML | 📅 2026-09-03
 
 使用 WeChat 和 ChatGPT 进行互动：
 基于 wechaty 和 Official API 在微信中使用 ChatGPT
@@ -172,7 +172,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 * 官网 <https://prompts.chat/> <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
-## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,975 | 🐛 45 | 📅 2026-04-28
+## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,988 | 🐛 45 | 📅 2026-04-28
 
 * 官网 <https://chatguide.plexpt.com/>
 
@@ -188,7 +188,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 浏览器插件
 
-### [chathub](https://github.com/chathub-dev/chathub) ⭐ 10,648 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-27
+### [chathub](https://github.com/chathub-dev/chathub) ⭐ 10,650 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-27
 
 All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/main/screenshots/extension.png?raw=true" />
 
@@ -196,10 +196,10 @@ All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/m
 
 ## LLM  接口管理 & 分发系统
 
-### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,686 | 🐛 1,033 | 🌐 JavaScript | 📅 2026-01-09
+### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 36,712 | 🐛 1,033 | 🌐 JavaScript | 📅 2026-01-09
 
 ![alt text](image.png)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
