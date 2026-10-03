@@ -108,7 +108,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # desktop 桌面端
 
-## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 111,560 | 🐛 1,476 | 🌐 Rust | 📅 2026-10-01
+## [基于tauri方案](https://github.com/tauri-apps/tauri) ⭐ 111,564 | 🐛 1,477 | 🌐 Rust | 📅 2026-10-01
 
 > 关于 使用 Web 前端构建更小、更快和更安全的桌面应用程序
 
@@ -131,7 +131,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 ## 基于python
 
-### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 47,216 | 🐛 92 | 🌐 Python | 📅 2026-10-02
+### [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 47,219 | 🐛 92 | 🌐 Python | 📅 2026-10-03
 
 > ChatGPT近期以强大的对话和信息整合能力风靡全网，可以写代码、改论文、讲故事，几乎无所不能，这让人不禁有个大胆的想法，能否用他的对话模型把我们的微信打造成一个智能机器人，可以在与好友对话中给出意想不到的回应，而且再也不用担心女朋友影响我们 打游戏 工作了。
 
@@ -162,7 +162,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 # prompts 相关
 
-## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,878 | 🐛 84 | 🌐 HTML | 📅 2026-10-01
+## [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,889 | 🐛 84 | 🌐 HTML | 📅 2026-10-01
 
 使用 WeChat 和 ChatGPT 进行互动：
 基于 wechaty 和 Official API 在微信中使用 ChatGPT
@@ -172,7 +172,7 @@ PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最�
 
 * 官网 <https://prompts.chat/> <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
-## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,897 | 🐛 47 | 📅 2026-04-28
+## [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,899 | 🐛 47 | 📅 2026-04-28
 
 * 官网 <https://chatguide.plexpt.com/>
 
@@ -196,7 +196,7 @@ All-in-one chatbot client <img src="https://github.com/chathub-dev/chathub/raw/m
 
 ## LLM  接口管理 & 分发系统
 
-### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 37,065 | 🐛 1,039 | 🌐 JavaScript | 📅 2026-01-09
+### [one-api](https://github.com/songquanpeng/one-api?tab=readme-ov-file) ⭐ 37,067 | 🐛 1,039 | 🌐 JavaScript | 📅 2026-01-09
 
 ![alt text](image.png)
 

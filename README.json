@@ -412,10 +412,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T13:41:06Z",
-            "open_issues": 1476,
+            "open_issues": 1477,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111560,
+            "stars": 111564,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -448,11 +448,11 @@
                 "id": 522158088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:43:19Z",
+                "last_commit": "2026-10-03T05:30:19Z",
                 "open_issues": 92,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 47216,
+                "stars": 47219,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -558,7 +558,7 @@
             "open_issues": 84,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 171878,
+            "stars": 171889,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -598,7 +598,7 @@
             "open_issues": 47,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 62897,
+            "stars": 62899,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -707,7 +707,7 @@
                 "open_issues": 1039,
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 37065,
+                "stars": 37067,
                 "topics": [
                   "api",
                   "api-gateway",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:20:48.068Z",
+    "last_updated": "2026-10-03T07:37:56.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "chatgpt 全栈解决方案, chat gpt webui , chatgpt full stack solution, chatgpt about, chatgpt deploy,gpt-4,gpt-3.5",
