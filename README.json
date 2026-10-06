@@ -48,7 +48,7 @@
                 "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31423,
+                "stars": 31422,
                 "topics": []
               },
               "title": "ChatGPT Web",
@@ -79,10 +79,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-11T02:07:25Z",
-                "open_issues": 851,
+                "open_issues": 852,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88832,
+                "stars": 88835,
                 "topics": [
                   "calclaude",
                   "chatgpt",
@@ -270,7 +270,7 @@
                     "open_issues": 949,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54585,
+                    "stars": 54588,
                     "topics": [
                       "ai",
                       "app",
@@ -307,7 +307,7 @@
                     "open_issues": 949,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54585,
+                    "stars": 54588,
                     "topics": [
                       "ai",
                       "app",
@@ -344,7 +344,7 @@
                     "open_issues": 949,
                     "owner": "lencx",
                     "repo": "ChatGPT",
-                    "stars": 54585,
+                    "stars": 54588,
                     "topics": [
                       "ai",
                       "app",
@@ -379,7 +379,7 @@
                 "open_issues": 949,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54585,
+                "stars": 54588,
                 "topics": [
                   "ai",
                   "app",
@@ -411,11 +411,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T13:35:18Z",
-            "open_issues": 1487,
+            "last_commit": "2026-10-05T13:23:21Z",
+            "open_issues": 1484,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111591,
+            "stars": 111611,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -448,11 +448,11 @@
                 "id": 522158088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:52:02Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-06T02:38:35Z",
+                "open_issues": 35,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 47225,
+                "stars": 47238,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -558,7 +558,7 @@
             "open_issues": 84,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 172052,
+            "stars": 172115,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -598,7 +598,7 @@
             "open_issues": 47,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 62962,
+            "stars": 63005,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -633,7 +633,7 @@
                 "open_issues": 2,
                 "owner": "x-dr",
                 "repo": "chatgptProxyAPI",
-                "stars": 3030,
+                "stars": 3032,
                 "topics": [
                   "chatgpt",
                   "cloudflare-pages",
@@ -667,7 +667,7 @@
                 "open_issues": 15,
                 "owner": "chathub-dev",
                 "repo": "chathub",
-                "stars": 10656,
+                "stars": 10655,
                 "topics": [
                   "all-in-one",
                   "browser-extension",
@@ -707,7 +707,7 @@
                 "open_issues": 1038,
                 "owner": "songquanpeng",
                 "repo": "one-api",
-                "stars": 37074,
+                "stars": 37075,
                 "topics": [
                   "api",
                   "api-gateway",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T08:24:32.013Z",
+    "last_updated": "2026-10-06T08:35:46.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "chatgpt 全栈解决方案, chat gpt webui , chatgpt full stack solution, chatgpt about, chatgpt deploy,gpt-4,gpt-3.5",
